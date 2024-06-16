@@ -1,0 +1,10 @@
+{
+    "name": "mekco supply",
+    "address": "123 Main Street, Anytown, USA",
+    "phone": "(123) 456-7890",
+    "email": "info@myshop.com",
+    "hours": "Monday to Friday, 9 AM to 5 PM",
+    "return_policy": "You can return any item within 30 days for a full refund.",
+    "shipping_info": "We offer free shipping on orders over $50.",
+    "special_offers": "Sign up for our newsletter to get the latest deals and offers."
+}
